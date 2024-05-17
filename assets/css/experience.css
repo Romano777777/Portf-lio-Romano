@@ -6,6 +6,10 @@
     list-style: none;
 }
 
+.experience li {
+    margin-bottom: 1rem;
+}
+
 .experience li .period {
     display: flex;
     flex-direction: row;
