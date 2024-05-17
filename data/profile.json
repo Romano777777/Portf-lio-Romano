@@ -1,0 +1,68 @@
+{
+    "name": "Bruno Roberto Dos Santos Romano",
+    "photo": "http://127.0.0.1:5500/assets/img/foto-romano.jpeg",
+    "job": "Desenvolvedor",
+    "location": "Campinas - SP",
+    "phone": "(19) 98310-3630",
+    "email": "br0567575@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        },
+        {
+          "name": "Java",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        },
+        {
+          "name": "Angular",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        },
+        {
+          "name": "React",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        },
+        {
+          "name": "Mongodb",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        },
+        {
+          "name": "Postgresql",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        }
+      ],
+      "softSkills": [
+        "Facilidade de comunicação",
+        "Disciplina",
+        "Resolução de problemas",
+        "Flexibilidade",
+        "Organização",
+        "Trabalho em equipe"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (Básico)",
+      "Espanhol (Básico)"
+    ],
+    "portfolio": [
+      {
+        "name": "Multiverso Spider-Man",
+        "url": "https://github.com/Romano777777/Multiverso-Spider-Man",
+        "github": true
+      },
+      {
+        "name": "Pokedex",
+        "url": "https://github.com/Romano777777/Pokedex",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Projetos Pessoais",
+        "period": "Ano 2024 Projetos",
+        "description": "https://github.com/Romano777777?tab=repositories"
+      }
+    ]
+  }
